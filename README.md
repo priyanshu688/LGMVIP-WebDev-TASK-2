@@ -9,4 +9,4 @@ Tech Stack used are as follows:-
   ► Node.js
   ► JavaScript
 
-⇛ Custom CSS/SASS/Styled-Components 
+⪼ Custom CSS/SASS/Styled-Components 
