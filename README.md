@@ -3,7 +3,7 @@
 This project is created as my 2nd Task. This Repository contains the code of Web-Application which is designed using CREATE-REACT-APP.
 Here I have designed a Navbar on the top which shows any Brand name and added a Button saying "GET USERS" which makes an API call to get the user data.
 
-Tech Stack used are as:-
+Tech Stack used are as follows:-
 
   ► React
   ► Node.js
