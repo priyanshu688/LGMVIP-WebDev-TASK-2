@@ -7,5 +7,4 @@ Tech Stack used are as follows:-
    ► React
    ► Node.js
    ► JavaScript
-
-⪼ Custom CSS/SASS/Styled-Components 
+   ► Custom CSS/SASS/Styled-Components 
